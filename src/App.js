@@ -17,9 +17,9 @@ function App() {
       {/* <RenderingConditions /> */}
       {/* <StateDemo /> */}
       {/* <Styling /> */}
-      {/* <BTCX /> */}
+      <BTCX />
       {/* <RenderWithLoop /> */}
-      <BaiTapRenderFilms />
+      {/* <BaiTapRenderFilms /> */}
     </div>
   );
 }
